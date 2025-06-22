@@ -53,3 +53,4 @@ git status
 git branch -b main
 git branch -m maser main
 git branch -m master main
+pg_dump -cC --inserts -U freecodecamp number_guess > number_guess.sql
